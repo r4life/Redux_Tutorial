@@ -6,7 +6,7 @@ import { Provider } from 'react-redux';
 import Posts from './components/Posts.js';
 import PostForm from './components/Postform.js';
 
-import store from './components/store';
+import store from './store';
 
 
 function App() {
